@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+boto3
+streamlit
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+bcrypt
+python-dotenv
+requests
